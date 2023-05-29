@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ini Website Yunita
-image: /img/home-jumbotron.jpg
+image: /img/Background-Hijau-HD-Free2121-300x186.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
